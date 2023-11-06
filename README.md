@@ -1,0 +1,1 @@
+# PHP Curl Resource Skeleton
